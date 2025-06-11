@@ -21,7 +21,7 @@ This project contains a complete implementation of the GPT-2 architecture from s
 
 Here's a screenshot showing the model summary and total parameters:
 
-![Model Parameters]((https://github.com/user-attachments/assets/25fe0e74-f35b-4560-bdb2-7bf54eca5eb8))  
+![Model Parameters](https://github.com/user-attachments/assets/25fe0e74-f35b-4560-bdb2-7bf54eca5eb8)  
 > Total trainable parameters: **163,087,441**
 
 ---
